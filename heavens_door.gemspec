@@ -3,6 +3,8 @@ lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "heavens_door/version"
 
+require "bundler/setup"
+
 Gem::Specification.new do |spec|
   spec.name          = "heavens_door"
   spec.version       = HeavensDoor::VERSION

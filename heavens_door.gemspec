@@ -9,10 +9,10 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Akira Matsuda"]
   spec.email         = ["ronnie@dio.jp"]
 
-  spec.summary       = 'The Capybara scenario writer'
-  spec.description   = 'A Rails engine that generates Capybara scenario in the browser'
-  spec.homepage      = 'https://github.com/amatsuda/heavens_door'
-  spec.license       = "MIT"
+#   spec.summary       = 'The Capybara scenario writer'
+#   spec.description   = 'A Rails engine that generates Capybara scenario in the browser'
+#   spec.homepage      = 'https://github.com/amatsuda/heavens_door'
+#   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.

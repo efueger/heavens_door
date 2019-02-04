@@ -1,6 +1,6 @@
 # Heaven's Door
 
-A tiny Rails engine that generates capybara test scenario by recording browser operation in development env.
+A tiny Rails engine that generates capybara test scenario by recording browser operation in your development env.
 
 
 ## Installation
